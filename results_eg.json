@@ -1,0 +1,86 @@
+{
+    "address_components": [
+        {
+            "long_name": "Bedfordview",
+            "short_name": "Bedfordview",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Germiston",
+            "short_name": "Germiston",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "East Rand",
+            "short_name": "East Rand",
+            "types": [
+                "administrative_area_level_3",
+                "political"
+            ]
+        },
+        {
+            "long_name": "East Rand",
+            "short_name": "East Rand",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Gauteng",
+            "short_name": "GP",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "South Africa",
+            "short_name": "ZA",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "formatted_address": "Bedfordview, Germiston, South Africa",
+    "geometry": {
+        "bounds": {
+            "Ea": {
+                "k": -26.1967959,
+                "j": -26.1607149
+            },
+            "va": {
+                "j": 28.11274000000003,
+                "k": 28.16059489999998
+            }
+        },
+        "location": {
+            "k": -26.179444,
+            "B": 28.136111000000028
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+            "Ea": {
+                "k": -26.1967959,
+                "j": -26.1607149
+            },
+            "va": {
+                "j": 28.11274000000003,
+                "k": 28.16059489999998
+            }
+        }
+    },
+    "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+    ]
+}
