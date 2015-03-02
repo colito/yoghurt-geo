@@ -13,6 +13,7 @@
     <a href="geocoding.php">Geocoding</a> <br>
     <a href="reverse_geocoding.php">Reverse Geocoding</a> <br>
     <a href="heat_map.php">Heat Map</a> <br>
+    <a href="search.php">Search Box</a> <br>
 
 </body>
 </html>
